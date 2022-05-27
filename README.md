@@ -16,12 +16,17 @@ A simple web page that showcases repositories I've made, my background, interest
 
 ## Setup/Installation Requirements
 
-1.
-2.
-3.
-4.
+1. Open Git Bash if on Windows and terminal if on Mac
+2. Run the command 
+
+```Git clone https://github.com/leark/portfolio```
+
+3. Go inside portfolio directory
+4. Open index.html
 
 ## Known Bugs
+
+No known bugs
 
 ## License
 
