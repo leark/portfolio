@@ -16,11 +16,10 @@ A simple web page that showcases repositories I've made, my background, interest
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1.
+2.
+3.
+4.
 
 ## Known Bugs
 
