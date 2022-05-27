@@ -2,18 +2,17 @@
 
 #### By Seung Lee
 
-#### A web page 
+#### A portfolio web page that shows a list of projects that I have created.
 
 ## Technologies Used
 
 * HTML
 * CSS
-* _you used in your project_
-* _here_
+* Bootstrap 4.5
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+A simple web page that showcases repositories I've made, my background, interests, hobbies and skills. It uses Bootstrap 4.5 for styling.
 
 ## Setup/Installation Requirements
 
@@ -22,8 +21,6 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _in a simple_
 * _easy-to-understand_
 * _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
