@@ -1,6 +1,10 @@
 .jumbotron {
-  /* height: 56px; */
-  /* padding: 76px; */
+  height: 184px;
+  padding: 76px;
+}
+
+.jumbotron h1 {
+  float: left;
 }
 
 .jumbotron img {
@@ -25,6 +29,10 @@
 
 #contents a {
   color: #0645AD;
+}
+
+#contents ol {
+  padding-left: 20px;
 }
 
 .card {
