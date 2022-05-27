@@ -20,19 +20,22 @@
 }
 
 .section {
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 #contents {
-  padding-left: 50%; 
+  padding-left: 60%; 
 }
 
 #contents a {
   color: #0645AD;
+  font-size: 15pt;
 }
 
 #contents ol {
-  padding-left: 20px;
+  padding-left: 10px;
+  list-style: none;
 }
 
 .card {
@@ -53,15 +56,16 @@
   align-items: center;
 }
 
-.card-img {
-
+.subsection {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 em {
   font-style: italic;
 }
 
-/* .card .btn {
-  background-color: black;
-  border-color: black;
-} */
+span {
+  font-style: italic;
+  font-weight: bold;
+}
