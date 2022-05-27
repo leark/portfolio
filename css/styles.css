@@ -1,5 +1,11 @@
+.jumbotron {
+  /* height: 56px; */
+  /* padding: 76px; */
+}
+
 .jumbotron img {
-  width: 50px;
+  width: auto;
+  float: right;
 }
 
 #profile_picture img {
@@ -19,6 +25,21 @@
 
 #contents a {
   color: #0645AD;
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-right: 14px;
+}
+
+.btn-light {
+  border: solid 1px black;
+}
+
+.repo_img {
+  background-color: grey;
+  padding: 0;
 }
 
 /* .card .btn {
