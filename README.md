@@ -10,6 +10,8 @@
 * CSS
 * Bootstrap 4.5
 
+## [GitHub Pages Link](https://leark.github.io/portfolio)
+
 ## Description
 
 A simple web page that showcases repositories I've made, my background, interests, hobbies and skills. It uses Bootstrap 4.5 for styling.

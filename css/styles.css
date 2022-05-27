@@ -46,8 +46,19 @@
 }
 
 .repo_img {
-  background-color: grey;
+  background-color: white;
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-img {
+
+}
+
+em {
+  font-style: italic;
 }
 
 /* .card .btn {
